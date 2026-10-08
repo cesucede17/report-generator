@@ -1,0 +1,374 @@
+{
+  "version": "iso50001-2018.v1",
+  "capitulos": [
+    {"id": "4",  "titulo": "Contexto de la organización"},
+    {"id": "5",  "titulo": "Liderazgo"},
+    {"id": "6",  "titulo": "Planificación"},
+    {"id": "7",  "titulo": "Apoyo"},
+    {"id": "8",  "titulo": "Operación"},
+    {"id": "9",  "titulo": "Evaluación del desempeño"},
+    {"id": "10", "titulo": "Mejora"}
+  ],
+  "clausulas": [
+    {
+      "id": "4.1",
+      "capitulo": "4",
+      "titulo": "Comprender la organización y su contexto",
+      "titulo_agenda": "Comprensión de la organización y su contexto",
+      "descripcion": "Esta cláusula evalúa si la organización ha identificado los factores internos y externos que condicionan su desempeño energético y la eficacia de su sistema de gestión de la energía (SGEn). Incluye el análisis de aspectos como el marco productivo, los recursos disponibles, la cultura energética interna y las presiones del entorno que pueden afectar al consumo o al coste de la energía. El objetivo es comprobar que este contexto se revisa y se tiene en cuenta al planificar el SGEn.",
+      "requisito": "La organización debe determinar los factores internos y externos pertinentes que afectan a su capacidad para lograr los resultados previstos de su sistema de gestión de la energía.",
+      "preguntas": [
+        "¿Cómo define su organización su contexto en relación con la gestión de la energía?",
+        "¿Tienen disponibles los datos de consumo y facturación? ¿Hay conocimiento / seguimiento / análisis de los datos?",
+        "¿Qué factores influyen principalmente en el consumo de energía?",
+        "¿El consumo energético / o coste de la energía es un punto para tratar en reuniones directivas?",
+        "¿Existen programas de comunicación de acciones de eficiencia o ahorro energético?",
+        "¿Existe formación y concienciación del uso de la energía en la empresa?",
+        "¿Quién gestiona la contratación de la energía?",
+        "¿Existe conocimiento de posibles subvenciones para implantación de MAEs?",
+        "¿Existe algún proceso crítico que no permita mejorar el desempeño energético?",
+        "¿Existen limitaciones físicas / presupuestales para implementación de medidas de ahorro energético?",
+        "¿Jerarquización de la organización permite comunicación de facturación de energía?",
+        "¿Existe conocimiento necesario para la negociación de la contratación de la energía?",
+        "¿Producción en serie / por lotes / número de referencias dificulta la optimización de los procesos?",
+        "¿Está la documentación / procedimientos disponibles para ser consultada por el personal?",
+        "¿Existe un grupo encargado del tema energético en la empresa? ¿Quiénes son las personas que más discuten sobre estos temas?",
+        "Otros comentarios"
+      ]
+    },
+    {
+      "id": "4.2",
+      "capitulo": "4",
+      "titulo": "Comprender las necesidades y expectativas de las partes interesadas",
+      "titulo_agenda": "Comprensión de las necesidades y las expectativas de las partes interesadas",
+      "descripcion": "Se audita si la organización ha identificado a las partes interesadas relevantes para su gestión energética (propiedad, clientes, administración, personal, proveedores, etc.) y sus necesidades o expectativas pertinentes, incluidos los requisitos legales aplicables. También se revisa si existe un proceso para determinar cuáles de esas necesidades se convierten en requisitos a cumplir por el SGEn y si se revisan periódicamente.",
+      "requisito": "La organización debe determinar las partes interesadas pertinentes para el SGEn y sus necesidades y expectativas relevantes, incluidos los requisitos legales y otros requisitos aplicables.",
+      "preguntas": [
+        "¿Qué factores internos considera su organización al establecer el contexto de la gestión de la energía (p.e. estructura organizativa, recursos disponibles, procesos operativos)?",
+        "¿Qué factores externos considera su organización al establecer el contexto de la gestión de la energía (p.e. marco legal y regulatorio, requisitos de los clientes, presiones del mercado)?",
+        "¿Cuáles son las partes interesadas relevantes para la gestión de la energía en su organización",
+        "¿Realizáis un análisis de los requisitos legales que tenéis que cumplir?",
+        "¿Cómo os aseguráis de que los estáis cumpliendo?",
+        "¿Revisáis periódicamente estos requisitos legales?",
+        "Otros comentarios"
+      ]
+    },
+    {
+      "id": "4.3",
+      "capitulo": "4",
+      "titulo": "Determinar el campo de aplicación del sistema de gestión de la energía",
+      "titulo_agenda": "Determinación del alcance del sistema de gestión de la energía",
+      "descripcion": "Esta cláusula comprueba que la organización ha definido con claridad los límites físicos y organizativos —instalaciones, procesos o líneas— que quedan dentro del sistema de gestión de la energía, así como su nivel de autoridad sobre las decisiones que afectan al desempeño energético dentro de ese perímetro. El campo de aplicación debe estar documentado y mantenerse actualizado.",
+      "requisito": "La organización debe determinar los límites y aplicabilidad del SGEn para establecer su campo de aplicación. El campo de aplicación y los límites del SGEn deben mantenerse actualizados como información documentada.",
+      "preguntas": [
+        "Limite físico y nivel: Espacios físicos/ nivel planta / nivel proceso",
+        "¿Tiene la organización autoridad para realizar mejoras de eficiencia energética o definir proveedores para el suministro energético?",
+        "Otros comentarios"
+      ]
+    },
+    {
+      "id": "4.4",
+      "capitulo": "4",
+      "titulo": "Sistema de gestión de la Energía",
+      "titulo_agenda": "Sistema de gestión de la energía",
+      "descripcion": "Evalúa si la organización ha establecido, implementado, mantenido y mejora de forma continua un sistema de gestión de la energía conforme a los requisitos de la norma, incluyendo los procesos necesarios y sus interacciones. Se revisa también cómo se gestionan los cambios en el contexto, en los procesos o en las partes interesadas que puedan afectar al SGEn.",
+      "requisito": "La organización debe establecer, implementar, mantener y mejorar continuamente un sistema de gestión de la energía, incluidos los procesos necesarios y sus interacciones, de acuerdo con los requisitos de la norma.",
+      "preguntas": [
+        "¿Cómo identifica y evalúa su organización los aspectos energéticos significativos en su contexto?",
+        "¿Cómo se monitorea y revisa periódicamente el contexto de la organización en relación con la gestión de la energía?",
+        "¿Cómo se comunican los cambios relevantes en el contexto de la organización a las partes interesadas involucradas en la gestión de la energía?",
+        "Una vez verificado que existe un desvío de consumo o se propone una MAE, ¿existe una comunicación o un protocolo de medición y verificación de estas?",
+        "Otros comentarios"
+      ]
+    },
+    {
+      "id": "5.1",
+      "capitulo": "5",
+      "titulo": "Liderazgo y compromiso",
+      "titulo_agenda": "Liderazgo y compromiso",
+      "descripcion": "Analiza el grado de implicación real de la alta dirección con el SGEn: si asume la responsabilidad de su eficacia, asigna los recursos necesarios, define la política y los objetivos energéticos, y promueve la mejora continua del desempeño energético como parte de la estrategia de la organización.",
+      "requisito": "La alta dirección debe demostrar liderazgo y compromiso con el SGEn asumiendo la responsabilidad de su eficacia y asegurando la disponibilidad de los recursos necesarios.",
+      "preguntas": [
+        "¿Existe un área encargada del seguimiento del desempeño energético en la organización?",
+        "¿Se han definido funciones específicas dentro de la organización para el seguimiento y gestión de la energía?",
+        "¿Planes de acción? ¿Son aprobados y revisados por la dirección?",
+        "¿Consideras que se dedican los recursos necesarios para la correcta implementación del SGEn?",
+        "¿Cómo comunica la dirección la importancia del SGEn para la compañía?",
+        "Otros comentarios"
+      ]
+    },
+    {
+      "id": "5.2",
+      "capitulo": "5",
+      "titulo": "Política Energética",
+      "titulo_agenda": "Política energética",
+      "descripcion": "Se audita la existencia de una política energética aprobada por la alta dirección, adecuada al propósito y contexto de la organización, que incluya el compromiso de mejora continua del desempeño energético y de cumplimiento de los requisitos legales aplicables, y que esté comunicada y disponible para el personal y las partes interesadas.",
+      "requisito": "La política energética debe: ponerse a disposición de las partes interesadas; revisarse y actualizarse periódicamente según necesidad.",
+      "preguntas": [
+        "¿Existe una política energética en la organización?",
+        "¿Se tiene en cuenta la energía en las políticas generales de la organización?",
+        "¿Se comunica internamente a los trabajadores? ¿Cómo?",
+        "Otros comentarios"
+      ]
+    },
+    {
+      "id": "5.3",
+      "capitulo": "5",
+      "titulo": "Funciones, responsabilidades y autoridades de la organización",
+      "titulo_agenda": "Funciones, responsabilidades y autoridades en la organización",
+      "descripcion": "Comprueba que la alta dirección ha asignado y comunicado las funciones, responsabilidades y autoridades pertinentes para el SGEn, incluyendo la existencia de un equipo o responsable de energía con capacidad real para impulsar el sistema y reportar sobre su desempeño.",
+      "requisito": "La alta dirección debe asignar y comunicar las responsabilidades y autoridades pertinentes para roles relevantes del SGEn.",
+      "preguntas": [
+        "¿Tenéis un equipo de gestión de la energía / comité de energía?",
+        "¿Existen funciones, responsabilidades y procedimientos para que las partes interesadas dispongan del tiempo y recursos necesarios para hacer seguimiento del sistema de gestión energética dentro de la organización?",
+        "(Responsabilidades en el organigrama y las fichas de personal si las hay)",
+        "Otros comentarios"
+      ]
+    },
+    {
+      "id": "6.1",
+      "capitulo": "6",
+      "titulo": "Acciones para tratar los riesgos y las oportunidades",
+      "titulo_agenda": "Acciones para abordar riesgos y oportunidades",
+      "descripcion": "Evalúa si, al planificar el SGEn, la organización ha identificado los riesgos y oportunidades que pueden afectar a su capacidad para lograr los resultados previstos —incluida la mejora del desempeño energético— y si ha planificado acciones para abordarlos e integrado esas acciones en los procesos del sistema.",
+      "requisito": "Al planificar el SGEn, garantizar que el SGE puede alcanzar sus resultados previstos, incluyendo la mejora del desempeño energético.",
+      "preguntas": [
+        "¿Existen protocolos documentados para la ejecución de acciones para mitigar posibles riesgos que afecten el desempeño energético de la organización?",
+        "¿Se realiza un proceso de verificación de las acciones implementadas para la mejora de la eficiencia energética?",
+        "¿Está definida la periodicidad para la revisión y actualización del SGEn?",
+        "Otros comentarios"
+      ]
+    },
+    {
+      "id": "6.2",
+      "capitulo": "6",
+      "titulo": "Objetivos energéticos, metas energéticas y planes de acción",
+      "titulo_agenda": "Objetivos, metas energéticas y planificación para lograrlos",
+      "descripcion": "Revisa si la organización ha establecido objetivos y metas energéticas coherentes con la política energética, con indicadores medibles, y planes de acción concretos para alcanzarlos, incluyendo responsables, recursos, plazos y método de verificación de resultados.",
+      "requisito": "La organización debe establecer objetivos y metas energéticas, y planes de acción para lograrlos, coherentes con la política energética.",
+      "preguntas": [
+        "¿Se han definido objetivos y metas energéticas en términos energéticos?",
+        "¿Existe algún medio de comunicación de la organización para la difusión de esos objetivos y metas?",
+        "Otros comentarios"
+      ]
+    },
+    {
+      "id": "6.3",
+      "capitulo": "6",
+      "titulo": "Revisión energética",
+      "titulo_agenda": "Revisión energética",
+      "descripcion": "Comprueba que la organización analiza sus fuentes de energía y su uso y consumo pasado y presente, identifica los usos significativos de la energía (USE) y las oportunidades de mejora, y estima el consumo esperado futuro, apoyándose en datos y en información documentada sobre la metodología y los resultados.",
+      "requisito": "La organización debe desarrollar, registrar y mantener una revisión energética que identifique los usos significativos de la energía y las oportunidades de mejora del desempeño energético.",
+      "preguntas": [
+        "¿Existe información documentada con la descripción de procesos en términos energéticos?",
+        "¿Existe información documentada con el análisis energético de los procesos?",
+        "¿Existe información documentada del personal encargado de ejecutar / tomar datos?",
+        "Otros comentarios"
+      ]
+    },
+    {
+      "id": "6.4",
+      "capitulo": "6",
+      "titulo": "Indicadores de desempeño energético",
+      "titulo_agenda": "Indicadores de desempeño energético (IDE)",
+      "descripcion": "Analiza si la organización ha determinado indicadores de desempeño energético (IDEn) adecuados para el seguimiento de su desempeño, con una metodología documentada para su determinación y actualización, y si estos indicadores se revisan y comparan frente a la línea de base energética.",
+      "requisito": "La organización debe determinar los indicadores de desempeño energético apropiados para el seguimiento y la demostración de su desempeño energético.",
+      "preguntas": [
+        "¿Están definidos y documentados los indicadores de desempeño energético de la organización?",
+        "Otros comentarios"
+      ]
+    },
+    {
+      "id": "6.5",
+      "capitulo": "6",
+      "titulo": "Línea de base energética",
+      "titulo_agenda": "Línea de base energética (LBE)",
+      "descripcion": "Evalúa si la organización ha establecido una línea de base energética a partir de la información de la revisión energética, con un periodo de tiempo apropiado, y si dispone de criterios claros y documentados para ajustarla cuando existan variables relevantes que la justifiquen (cambios en procesos, patrones operativos, etc.).",
+      "requisito": "La organización debe establecer una línea de base energética utilizando la información de la revisión energética y ajustarla cuando corresponda.",
+      "preguntas": [
+        "¿Está definido y documentado el proceso de determinación de línea de base energética?",
+        "¿Existe una metodología para determinar niveles de consumo de energía?",
+        "¿Están definidos los principales consumidores de energía?",
+        "Otros comentarios"
+      ]
+    },
+    {
+      "id": "6.6",
+      "capitulo": "6",
+      "titulo": "Planificación para la recopilación de datos de la energía",
+      "titulo_agenda": "Planificación para la recopilación de datos de energía",
+      "descripcion": "Comprueba que la organización ha planificado qué datos de energía necesita recopilar, con qué frecuencia, mediante qué medios de medición y con qué nivel de precisión, para poder hacer seguimiento de los USE, de los IDEn y de la línea de base energética.",
+      "requisito": "La organización debe determinar y planificar las necesidades de recopilación y conservación de los datos necesarios para el seguimiento del desempeño energético.",
+      "preguntas": [
+        "¿Está disponible la información y datos necesarios para el seguimiento del consumo energético dentro de la organización?",
+        "¿Existe personal cuya función sea la recopilación, tratamiento y análisis de datos de consumo energético?",
+        "¿Están establecidos los objetivos energéticos de ahorro de la organización?",
+        "¿Existen planes de actuación para las desviaciones del consumo energético?",
+        "Otros comentarios"
+      ]
+    },
+    {
+      "id": "7.1",
+      "capitulo": "7",
+      "titulo": "Recursos",
+      "titulo_agenda": "Recursos",
+      "descripcion": "Revisa si la organización ha determinado y proporcionado los recursos —humanos, económicos, técnicos— necesarios para establecer, implementar, mantener y mejorar de forma continua el SGEn y su desempeño energético.",
+      "requisito": "La organización debe determinar y proporcionar los recursos necesarios para el establecimiento, implementación, mantenimiento y mejora continua del SGEn.",
+      "preguntas": [
+        "¿Se designan recursos para disponer la información necesaria para la implementación, mantenimiento y mejora continua del desempeño energético?"
+      ]
+    },
+    {
+      "id": "7.2",
+      "capitulo": "7",
+      "titulo": "Competencia",
+      "titulo_agenda": "Competencia",
+      "descripcion": "Evalúa si la organización ha determinado la competencia necesaria de las personas que realizan trabajos con influencia en el desempeño energético o en el SGEn, y si se asegura de que dichas personas son competentes mediante formación u otras acciones, conservando la evidencia correspondiente.",
+      "requisito": "La organización debe asegurarse de que las personas cuyo trabajo influye en el desempeño energético o el SGEn son competentes con base en la educación, formación o experiencia apropiadas.",
+      "preguntas": [
+        "¿Se han establecido requisitos pertinentes para el personal encargado de la gestión de la energía dentro de la organización?",
+        "¿Se han desarrollado planes de formación para el personal implicado en la gestión de la energía en la organización?",
+        "Otros comentarios"
+      ]
+    },
+    {
+      "id": "7.3",
+      "capitulo": "7",
+      "titulo": "Toma de conciencia",
+      "titulo_agenda": "Toma de conciencia",
+      "descripcion": "Comprueba que las personas que trabajan bajo el control de la organización son conscientes de la política energética, de su contribución a la eficacia del SGEn y a la mejora del desempeño energético, y de las implicaciones de no cumplir con los requisitos del sistema.",
+      "requisito": "La organización debe asegurarse de que las personas que trabajan bajo su control son conscientes de la política energética y de su contribución a la eficacia del SGEn.",
+      "preguntas": [
+        "¿Cómo se promueve la participación y el compromiso de todos los niveles de la organización en la mejora continua del desempeño energético?",
+        "Formaciones, charlas, boletines, datos internos compartidos...",
+        "Otros comentarios"
+      ]
+    },
+    {
+      "id": "7.4",
+      "capitulo": "7",
+      "titulo": "Comunicación",
+      "titulo_agenda": "Comunicación",
+      "descripcion": "Analiza si la organización ha establecido los procesos de comunicación interna y externa pertinentes para el SGEn —qué se comunica, cuándo, a quién y cómo—, incluyendo el cauce para que cualquier persona pueda proponer mejoras al sistema o al desempeño energético.",
+      "requisito": "La organización debe establecer e implementar un proceso por el cual cualquier persona que trabaje bajo el control de la organización pueda hacer comentarios o sugerir mejoras al SGEn y al desempeño energético. La organización debe considerar retener información documentada de las sugerencias de mejora.",
+      "preguntas": [
+        "¿Existen procedimientos para la comunicación y difusión de aspectos relacionados con la situación energética de la organización?",
+        "Otros comentarios"
+      ]
+    },
+    {
+      "id": "7.5",
+      "capitulo": "7",
+      "titulo": "Información documentada",
+      "titulo_agenda": "Información documentada",
+      "descripcion": "Evalúa si el SGEn incluye la información documentada requerida por la norma y la que la propia organización determina necesaria para su eficacia, y si dicha información se controla adecuadamente en cuanto a creación, actualización, distribución, acceso, protección y conservación.",
+      "requisito": "La organización debe mantener y controlar la información documentada requerida por la norma y la necesaria para la eficacia del SGEn.",
+      "preguntas": [
+        "Otros comentarios"
+      ]
+    },
+    {
+      "id": "8.1",
+      "capitulo": "8",
+      "titulo": "Planificación y control operacional",
+      "titulo_agenda": "Planificación y control operacional",
+      "descripcion": "Revisa si la organización planifica, implementa y controla los procesos relacionados con sus usos significativos de la energía, estableciendo criterios de operación y control, incluyendo el mantenimiento, para asegurar que se cumplen conforme a lo planificado y se detectan las desviaciones significativas del desempeño energético.",
+      "requisito": "La organización debe planificar, implementar y controlar los procesos relacionados con sus usos significativos de la energía, de acuerdo con los criterios operacionales establecidos.",
+      "preguntas": [
+        "¿Cómo se realiza la planificación del consumo energético de la organización?",
+        "¿Existe información documentada de la operación de los procesos de la organización, con valores de referencia y límites /objetivos?",
+        "¿Se dispone de un canal de comunicación de planificación y control de operación del proceso para los trabajadores o el personal interesado en el aspecto energético de la organización?",
+        "Otros comentarios"
+      ]
+    },
+    {
+      "id": "8.2",
+      "capitulo": "8",
+      "titulo": "Diseño",
+      "titulo_agenda": "Diseño",
+      "descripcion": "Comprueba que, al diseñar instalaciones, equipos, sistemas o procesos nuevos, modificados o renovados que puedan tener un impacto significativo en el desempeño energético, la organización considera las oportunidades de mejora del desempeño energético y los resultados se incorporan según corresponda a las especificaciones y a la adquisición.",
+      "requisito": "La organización debe considerar las oportunidades de mejora del desempeño energético y el control operacional en el diseño de instalaciones, equipos, sistemas y procesos nuevos o modificados.",
+      "preguntas": [
+        "¿Existe un protocolo de información, recopilación, análisis e implantación de medidas de mejora del desempeño energético?",
+        "Otros comentarios"
+      ]
+    },
+    {
+      "id": "8.3",
+      "capitulo": "8",
+      "titulo": "Adquisiciones",
+      "titulo_agenda": "Adquisición",
+      "descripcion": "Evalúa si, al adquirir productos, equipos y servicios con impacto en los usos significativos de la energía, la organización establece e implementa criterios para evaluar el desempeño energético a lo largo del ciclo de vida previsto, e informa a sus proveedores de que dicho desempeño es un criterio de adquisición.",
+      "requisito": "Al adquirir productos, equipos y servicios que utilicen energía y que puedan influir sobre los USE, la organización debe informar a sus proveedores de que el desempeño energético es uno de los criterios de evaluación para la adquisición.",
+      "preguntas": [
+        "¿Es el factor energético (consumo y facturación) un factor influyente en la toma de decisiones de adquisiciones? ¿Cómo?",
+        "Otros comentarios"
+      ]
+    },
+    {
+      "id": "9.1",
+      "capitulo": "9",
+      "titulo": "Seguimiento, medición, análisis y evaluación del desempeño energético y del SGEn",
+      "titulo_agenda": "Seguimiento, medición, análisis y evaluación del desempeño energético y del SGEn",
+      "descripcion": "Comprueba que la organización determina qué es necesario medir y monitorizar en relación con sus usos significativos de la energía, sus IDEn y sus resultados frente a la línea de base energética, con qué métodos y periodicidad, y analiza y evalúa esta información para investigar y responder a desviaciones significativas. Incluye también la evaluación periódica del cumplimiento de los requisitos legales y de otro tipo aplicables al desempeño energético.",
+      "requisito": "La organización debe hacer seguimiento, medir, analizar y evaluar a intervalos planificados el desempeño energético y la eficacia del SGEn, incluyendo el cumplimiento de los requisitos legales aplicables.",
+      "preguntas": [
+        "¿Cuál es el proceso para recopilar y analizar los datos de desempeño energético antes de la revisión por la dirección?",
+        "¿Cómo se evalúa el cumplimiento de los objetivos de mejora del desempeño energético establecidos en la organización?",
+        "Otros comentarios"
+      ],
+      "subclausulas": [
+        {"id": "9.1.1", "titulo_agenda": "Generalidades del seguimiento y medición del desempeño energético"},
+        {"id": "9.1.2", "titulo_agenda": "Evaluación del cumplimiento de los requisitos legales y otros requisitos"}
+      ]
+    },
+    {
+      "id": "9.2",
+      "capitulo": "9",
+      "titulo": "Auditoría interna",
+      "titulo_agenda": "Auditoría interna",
+      "descripcion": "Evalúa si la organización lleva a cabo auditorías internas a intervalos planificados para comprobar si el SGEn cumple los requisitos propios de la organización y de la norma, y si se implementa y mantiene eficazmente, incluyendo la planificación del programa, la selección de auditores competentes e imparciales, y el registro de resultados.",
+      "requisito": "La organización debe llevar a cabo auditorías internas a intervalos planificados para proporcionar información sobre si el SGEn es conforme y se implementa y mantiene eficazmente.",
+      "preguntas": [
+        "¿Cómo se planifican y programan las auditorías internas de gestión de la energía en su empresa?",
+        "¿Quiénes son los responsables de realizar las auditorías internas y cuál es su nivel de competencia en términos de conocimientos sobre eficiencia energética?",
+        "¿Cómo se garantiza la imparcialidad y la independencia de los auditores internos durante el proceso de auditoría?",
+        "Otros comentarios"
+      ]
+    },
+    {
+      "id": "9.3",
+      "capitulo": "9",
+      "titulo": "Revisión por la dirección",
+      "titulo_agenda": "Revisión por la dirección",
+      "descripcion": "Analiza si la alta dirección revisa el SGEn a intervalos planificados considerando entradas como el desempeño energético, el cumplimiento de objetivos, los resultados de auditorías internas o el estado de acciones correctivas, y si de esa revisión se derivan decisiones y acciones documentadas orientadas a la mejora continua.",
+      "requisito": "La alta dirección debe revisar el SGEn de la organización, a intervalos planificados, para asegurarse de su continua idoneidad, adecuación, eficacia y alineación con la dirección estratégica de la organización.",
+      "preguntas": [
+        "¿Cómo se lleva a cabo la revisión por la dirección en relación con el sistema de gestión de la energía en su empresa?",
+        "¿Con qué frecuencia se realiza la revisión por la dirección y quiénes participan en ella?",
+        "¿Qué protocolos o procedimientos se siguen para documentar y mantener registros de las revisiones por la dirección realizadas?",
+        "¿Qué medidas se toman en respuesta a los hallazgos y conclusiones de la revisión por la dirección para impulsar la mejora continua en la gestión de la energía?"
+      ]
+    },
+    {
+      "id": "10.1",
+      "capitulo": "10",
+      "titulo": "No conformidad y acciones correctivas",
+      "titulo_agenda": "No conformidades y acciones correctivas",
+      "descripcion": "Comprueba que, ante una no conformidad, la organización reacciona controlándola y corrigiéndola, evalúa la necesidad de eliminar sus causas para que no vuelva a ocurrir, implementa las acciones necesarias, revisa su eficacia y conserva información documentada como evidencia de la naturaleza de las no conformidades y de las acciones tomadas.",
+      "requisito": "La organización debe reaccionar ante las no conformidades, evaluar la necesidad de acciones correctivas para eliminar sus causas e implementar las acciones necesarias.",
+      "preguntas": [
+        "¿Cuál es el proceso para comunicar los resultados de las auditorías internas a la alta dirección y a otros involucrados relevantes?"
+      ]
+    },
+    {
+      "id": "10.2",
+      "capitulo": "10",
+      "titulo": "Mejora continua",
+      "titulo_agenda": "Mejora continua",
+      "descripcion": "Evalúa si la organización mejora de forma continua la idoneidad, adecuación y eficacia de su SGEn, y demuestra la mejora de su desempeño energético a lo largo del tiempo, más allá del simple cumplimiento normativo.",
+      "requisito": "La organización debe demostrar la mejora del desempeño energético.",
+      "preguntas": []
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "blocks": [
+    {"position": 0, "kind": "opening", "titulo": "Reunión inicial", "duration_min": 15, "clauses": []},
+    {"position": 1, "kind": "topic", "titulo": "Contexto de la organización y análisis de riesgos y oportunidades", "duration_min": 15, "clauses": ["4.1", "4.2", "4.3", "4.4"]},
+    {"position": 2, "kind": "topic", "titulo": "Liderazgo", "duration_min": 15, "clauses": ["5.1", "5.2", "5.3"]},
+    {"position": 3, "kind": "topic", "titulo": "Planificación energética", "duration_min": 30, "clauses": ["6.1", "6.2", "6.3", "6.4", "6.5", "6.6"]},
+    {"position": 4, "kind": "topic", "titulo": "Apoyo", "duration_min": 15, "clauses": ["7.1", "7.2", "7.3", "7.4", "7.5"]},
+    {"position": 5, "kind": "break", "titulo": "Descanso", "duration_min": 30, "clauses": []},
+    {"position": 6, "kind": "topic", "titulo": "Operación del SGE", "duration_min": 45, "clauses": ["8.1", "8.2", "8.3"]},
+    {"position": 7, "kind": "topic", "titulo": "Evaluación del desempeño, requisitos legales, revisión por la dirección", "duration_min": 30, "clauses": ["9.1", "9.2", "9.3"]},
+    {"position": 8, "kind": "topic", "titulo": "Mejora", "duration_min": 30, "clauses": ["10.1", "10.2"]},
+    {"position": 9, "kind": "closing", "titulo": "Reunión de conclusiones", "duration_min": 15, "clauses": []}
+  ]
+}
